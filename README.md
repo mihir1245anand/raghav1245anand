@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raghav Anand
+# 👋 Hi, I'm Mihir Anand
 
 ### 💻 Computer Science Student | Developer | Problem Solver
 
