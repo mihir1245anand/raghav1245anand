@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=220&section=header&text=Hi%20there,%20I'm%20Mihir%20Anand%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Software%20Developer%20•%20Problem%20Solver&descFontSize=18&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=220&section=header&text=Hi%20there,%20I'm%20Mihir%20Anand%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Problem%20Solver&descFontSize=18&descAlignY=60&descAlign=50" width="100%" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://protfolio-flame-three.vercel.app" target="_blank">
@@ -13,7 +13,7 @@
   <!-- Quick Social & Portfolio Badges -->
   <p align="center">
     <a href="https://protfolio-flame-three.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/mihir-anand-349a99424/" target="_blank">
@@ -29,7 +29,7 @@
     </a>
     &nbsp;
     <a href="https://flowcv.com/resume/4a6cn46cb2oc" target="_blank">
-      <img src="https://img.shields.io/badge/📄%20Resume-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+      <img src="https://img.shields.io/badge/%F0%9F%93%84%20Resume-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
     </a>
     &nbsp;
     <a href="mailto:raghavanand034@gmail.com">
@@ -41,7 +41,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mihir1245anand&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
     &nbsp;
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Internships%20🚀-success?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Internships%20%F0%9F%9A%80-success?style=flat-square" alt="Status"/>
   </p>
 
 </div>
@@ -92,7 +92,7 @@ const developer = {
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/mihir1245anand" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-267%20Solved%20%7C%201★%20(1020)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Solved" />
+    <img src="https://img.shields.io/badge/CodeChef-267%20Solved%20%7C%201%E2%98%85%20(1020)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Solved" />
   </a>
   &nbsp;
   <a href="https://github.com/mihir1245anand" target="_blank">
