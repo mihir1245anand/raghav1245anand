@@ -262,7 +262,7 @@ const developer = {
 
   <!-- Contribution Activity Snake -->
   <h3>🐍 GitHub Contribution Activity</h3>
-  <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%" />
+  <img src="https://raw.githubusercontent.com/mihir1245anand/raghav1245anand/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
