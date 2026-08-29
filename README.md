@@ -235,37 +235,35 @@ const developer = {
 ### 📊 GitHub Statistics & Analytics
 
 <div align="center">
+
+  <!-- GitHub Live Streak -->
+  <img src="https://streak-stats.demolab.com?user=mihir1245anand&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <!-- GitHub Summary Cards Grid -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mihir1245anand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Mihir's GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihir1245anand&theme=tokyonight" width="390" alt="GitHub Profile Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1245anand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihir1245anand&theme=tokyonight" width="390" alt="Languages Distribution" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir1245anand&theme=tokyonight" width="390" alt="Most Commit Language" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=mihir1245anand&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak Stats" />
+  <!-- Contribution Activity Snake -->
+  <h3>🐍 GitHub Contribution Activity</h3>
+  <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%" />
 
-  <br/><br/>
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mihir1245anand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="95%" alt="GitHub Trophies" />
-
-  <br/><br/>
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir1245anand&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-
-  <br/><br/>
-
-  <!-- Contribution Snake -->
-  <h3>🐍 GitHub Contribution Activity Snake</h3>
-  <img src="https://raw.githubusercontent.com/mihir1245anand/raghav1245anand/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%" />
 </div>
 
 ---

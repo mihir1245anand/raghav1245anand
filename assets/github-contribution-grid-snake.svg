@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="snakeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <style>
+    .grid-cell { fill: #1e293b; rx: 3; ry: 3; transition: all 0.3s; }
+    .cell-act-1 { fill: #0e7490; }
+    .cell-act-2 { fill: #0284c7; }
+    .cell-act-3 { fill: #38bdf8; }
+    .cell-act-4 { fill: #34d399; }
+    .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; fill: #94a3b8; font-weight: 500; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; fill: #f8fafc; font-weight: 600; }
+  </style>
+  <rect width="850" height="180" rx="12" fill="url(#bgGrad)" stroke="#334155" stroke-width="1"/>
+  <text x="25" y="32" class="title">🐍 Contribution Activity • Active & Consistent</text>
+  <g transform="translate(25, 48)">
+    <!-- Simulated contribution grid -->
+    <g>
+      <!-- Row 1 -->
+      <rect x="0" y="0" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="17" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="34" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="51" y="0" width="13" height="13" class="grid-cell"/>
+      <rect x="68" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="85" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="102" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="119" y="0" width="13" height="13" class="grid-cell"/>
+      <rect x="136" y="0" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="153" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="170" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="187" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="204" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="221" y="0" width="13" height="13" class="grid-cell"/>
+      <rect x="238" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="255" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="272" y="0" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="289" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="306" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="323" y="0" width="13" height="13" class="grid-cell"/>
+      <rect x="340" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="357" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="374" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="391" y="0" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="408" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="425" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="442" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="459" y="0" width="13" height="13" class="grid-cell"/>
+      <rect x="476" y="0" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="493" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="510" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="527" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="544" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="561" y="0" width="13" height="13" class="grid-cell"/>
+      <rect x="578" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="595" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="612" y="0" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="629" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="646" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="663" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="680" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="697" y="0" width="13" height="13" class="grid-cell"/>
+      <rect x="714" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="731" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="748" y="0" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="765" y="0" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="782" y="0" width="13" height="13" class="grid-cell cell-act-4"/>
+
+      <!-- Row 2 -->
+      <rect x="0" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="17" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="34" y="17" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="51" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="68" y="17" width="13" height="13" class="grid-cell"/>
+      <rect x="85" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="102" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="119" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="136" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="153" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="170" y="17" width="13" height="13" class="grid-cell"/>
+      <rect x="187" y="17" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="204" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="221" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="238" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="255" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="272" y="17" width="13" height="13" class="grid-cell"/>
+      <rect x="289" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="306" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="323" y="17" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="340" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="357" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="374" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="391" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="408" y="17" width="13" height="13" class="grid-cell"/>
+      <rect x="425" y="17" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="442" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="459" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="476" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="493" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="510" y="17" width="13" height="13" class="grid-cell"/>
+      <rect x="527" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="544" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="561" y="17" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="578" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="595" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="612" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="629" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="646" y="17" width="13" height="13" class="grid-cell"/>
+      <rect x="663" y="17" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="680" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="697" y="17" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="714" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="731" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="748" y="17" width="13" height="13" class="grid-cell"/>
+      <rect x="765" y="17" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="782" y="17" width="13" height="13" class="grid-cell cell-act-3"/>
+
+      <!-- Row 3 -->
+      <rect x="0" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="17" y="34" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="34" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="51" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="68" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="85" y="34" width="13" height="13" class="grid-cell"/>
+      <rect x="102" y="34" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="119" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="136" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="153" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="170" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="187" y="34" width="13" height="13" class="grid-cell"/>
+      <rect x="204" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="221" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="238" y="34" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="255" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="272" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="289" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="306" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="323" y="34" width="13" height="13" class="grid-cell"/>
+      <rect x="340" y="34" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="357" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="374" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="391" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="408" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="425" y="34" width="13" height="13" class="grid-cell"/>
+      <rect x="442" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="459" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="476" y="34" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="493" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="510" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="527" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="544" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="561" y="34" width="13" height="13" class="grid-cell"/>
+      <rect x="578" y="34" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="595" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="612" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="629" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="646" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="663" y="34" width="13" height="13" class="grid-cell"/>
+      <rect x="680" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="697" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="714" y="34" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="731" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="748" y="34" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="765" y="34" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="782" y="34" width="13" height="13" class="grid-cell cell-act-3"/>
+
+      <!-- Row 4 -->
+      <rect x="0" y="51" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="17" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="34" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="51" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="68" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="85" y="51" width="13" height="13" class="grid-cell"/>
+      <rect x="102" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="119" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="136" y="51" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="153" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="170" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="187" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="204" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="221" y="51" width="13" height="13" class="grid-cell"/>
+      <rect x="238" y="51" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="255" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="272" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="289" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="306" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="323" y="51" width="13" height="13" class="grid-cell"/>
+      <rect x="340" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="357" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="374" y="51" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="391" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="408" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="425" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="442" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="459" y="51" width="13" height="13" class="grid-cell"/>
+      <rect x="476" y="51" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="493" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="510" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="527" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="544" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="561" y="51" width="13" height="13" class="grid-cell"/>
+      <rect x="578" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="595" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="612" y="51" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="629" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="646" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="663" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="680" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="697" y="51" width="13" height="13" class="grid-cell"/>
+      <rect x="714" y="51" width="13" height="13" class="grid-cell cell-act-1"/>
+      <rect x="731" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+      <rect x="748" y="51" width="13" height="13" class="grid-cell cell-act-2"/>
+      <rect x="765" y="51" width="13" height="13" class="grid-cell cell-act-4"/>
+      <rect x="782" y="51" width="13" height="13" class="grid-cell cell-act-3"/>
+    </g>
+
+    <!-- Animated Snake Path / Indicator -->
+    <path d="M 680 57 Q 714 20 748 57 T 782 57" fill="none" stroke="url(#snakeGrad)" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
+    <circle cx="782" cy="57" r="5" fill="#34d399" filter="url(#glow)"/>
+    <circle cx="782" cy="55" r="1.5" fill="#0f172a"/>
+  </g>
+  <text x="25" y="155" class="label">Less</text>
+  <rect x="60" y="144" width="12" height="12" class="grid-cell"/>
+  <rect x="76" y="144" width="12" height="12" class="grid-cell cell-act-1"/>
+  <rect x="92" y="144" width="12" height="12" class="grid-cell cell-act-2"/>
+  <rect x="108" y="144" width="12" height="12" class="grid-cell cell-act-3"/>
+  <rect x="124" y="144" width="12" height="12" class="grid-cell cell-act-4"/>
+  <text x="145" y="155" class="label">More Contributions</text>
+  <text x="660" y="155" class="label">550+ Contributions in 2025–26</text>
+</svg>
