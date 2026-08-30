@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://protfolio-flame-three.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=2nd+Year+B.Tech+CSE+at+ABES+Engineering+College;Passionate+about+DSA+%26+Full+Stack+Development;323%2B+Problems+Solved+Across+CodeChef+%26+LeetCode;Building+Scalable+Web+Apps+with+React+%26+Modern+Tech;Open+for+Software+Engineering+%26+Frontend+Internships!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=2nd+Year+B.Tech+CSE+at+ABES+Engineering+College;Passionate+about+DSA+%26+Full+Stack+Development;324%2B+Problems+Solved+Across+CodeChef+%26+LeetCode;Building+Scalable+Web+Apps+with+React+%26+Modern+Tech;Open+for+Software+Engineering+%26+Frontend+Internships!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -58,7 +58,7 @@ const developer = {
   role: "Aspiring Software Engineer & Full-Stack Developer",
   coreFocus: ["Data Structures & Algorithms", "Full Stack Development", "Clean Code Architecture"],
   currentLearning: ["Advanced DSA (C++)", "MERN Stack", "AI Integration", "System Design Basics"],
-  totalDsaSolved: "323+ Problems (CodeChef + LeetCode)",
+  totalDsaSolved: "324+ Problems (CodeChef + LeetCode)",
   ambition: "Seeking SDE / Frontend Developer Internship opportunities for 2025-2026",
   hobbies: ["Algorithmic Problem Solving", "Open Source Contributing", "Tech Exploration"]
 };
@@ -77,18 +77,27 @@ const developer = {
 
 | Platform | Username | Solved / Rating | Highlights & Badges | Profile Link |
 | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `@mihir1245anand` | **56 Problems** | 26 Easy • 20 Medium • 10 Hard • 32d Streak | [View Profile ↗](https://leetcode.com/u/mihir1245anand/) |
+| **LeetCode** | `@mihir1245anand` | **57 Problems** | 26 Easy • 21 Medium • 10 Hard • 32d Streak | [View Profile ↗](https://leetcode.com/u/mihir1245anand/) |
 | **CodeChef** | `@mihir1245anand` | **267 Problems** | **1★ Rated (1020 Rating)** • Div 4 • Contest Contender | [View Profile ↗](https://www.codechef.com/users/mihir1245anand) |
 | **GitHub** | `@mihir1245anand` | **10+ Repositories** | Active Builder • Full Stack Apps • Open Source | [View Profile ↗](https://github.com/mihir1245anand) |
-| **Total DSA Practice** | — | **323+ Solved** | Continuous Daily Problem Solving in C++ | — |
+| **Total DSA Practice** | — | **324+ Solved** | Continuous Daily Problem Solving in C++ | — |
 
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Live Dynamic LeetCode Card -->
   <a href="https://leetcode.com/u/mihir1245anand/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-56%20Solved%20(20%20Med%20%7C%2010%20Hard)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
+    <img src="https://leetcard.jacoblin.cool/mihir1245anand?theme=tokyonight&font=Fira%20Code" alt="LeetCode Live Stats Card" width="490" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/mihir1245anand/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-57%20Solved%20(21%20Med%20%7C%2010%20Hard)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/mihir1245anand" target="_blank">
@@ -237,7 +246,7 @@ const developer = {
 <div align="center">
 
   <!-- GitHub Live Streak -->
-  <img src="https://streak-stats.demolab.com?user=mihir1245anand&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=mihir1245anand&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" width="95%" alt="GitHub Streak Stats" />
 
   <br/><br/>
 
