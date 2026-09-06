@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://protfolio-flame-three.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=2nd+Year+B.Tech+CSE+at+ABES+Engineering+College;Passionate+about+DSA+%26+Full+Stack+Development;324%2B+Problems+Solved+Across+CodeChef+%26+LeetCode;Building+Scalable+Web+Apps+with+React+%26+Modern+Tech;Open+for+Software+Engineering+%26+Frontend+Internships!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=2nd+Year+B.Tech+CSE+at+ABES+Engineering+College;Passionate+about+DSA+%26+Full+Stack+Development;342%2B+Problems+Solved+Across+CodeChef+%26+LeetCode;Building+Scalable+Web+Apps+with+React+%26+Modern+Tech;Open+for+Software+Engineering+%26+Frontend+Internships!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -58,7 +58,7 @@ const developer = {
   role: "Aspiring Software Engineer & Full-Stack Developer",
   coreFocus: ["Data Structures & Algorithms", "Full Stack Development", "Clean Code Architecture"],
   currentLearning: ["Advanced DSA (C++)", "MERN Stack", "AI Integration", "System Design Basics"],
-  totalDsaSolved: "324+ Problems (CodeChef + LeetCode)",
+  totalDsaSolved: "342+ Problems (CodeChef + LeetCode)",
   ambition: "Seeking SDE / Frontend Developer Internship opportunities for 2025-2026",
   hobbies: ["Algorithmic Problem Solving", "Open Source Contributing", "Tech Exploration"]
 };
@@ -77,10 +77,10 @@ const developer = {
 
 | Platform | Username | Solved / Rating | Highlights & Badges | Profile Link |
 | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `@mihir1245anand` | **57 Problems** | 26 Easy • 21 Medium • 10 Hard • 32d Streak | [View Profile ↗](https://leetcode.com/u/mihir1245anand/) |
-| **CodeChef** | `@mihir1245anand` | **267 Problems** | **1★ Rated (1020 Rating)** • Div 4 • Contest Contender | [View Profile ↗](https://www.codechef.com/users/mihir1245anand) |
+| **LeetCode** | `@mihir1245anand` | **64 Problems** | 28 Easy • 25 Medium • 11 Hard • 40d Streak | [View Profile ↗](https://leetcode.com/u/mihir1245anand/) |
+| **CodeChef** | `@mihir1245anand` | **278 Problems** | **1★ Rated (1055 Rating)** • Div 4 • Problem Solver (Silver) | [View Profile ↗](https://www.codechef.com/users/mihir1245anand) |
 | **GitHub** | `@mihir1245anand` | **10+ Repositories** | Active Builder • Full Stack Apps • Open Source | [View Profile ↗](https://github.com/mihir1245anand) |
-| **Total DSA Practice** | — | **324+ Solved** | Continuous Daily Problem Solving in C++ | — |
+| **Total DSA Practice** | — | **342+ Solved** | Continuous Daily Problem Solving in C++ | — |
 
 </div>
 
@@ -97,11 +97,11 @@ const developer = {
 
 <div align="center">
   <a href="https://leetcode.com/u/mihir1245anand/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-57%20Solved%20(21%20Med%20%7C%2010%20Hard)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
+    <img src="https://img.shields.io/badge/LeetCode-64%20Solved%20(25%20Med%20%7C%2011%20Hard)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/mihir1245anand" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-267%20Solved%20%7C%201%E2%98%85%20(1020)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Solved" />
+    <img src="https://img.shields.io/badge/CodeChef-278%20Solved%20%7C%201%E2%98%85%20(1055)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Solved" />
   </a>
   &nbsp;
   <a href="https://github.com/mihir1245anand" target="_blank">
@@ -188,8 +188,8 @@ const developer = {
         <li>📈 Well-documented C++ source code with explanations.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mihir1245anand/leetcode" target="_blank"><b>📦 Source Code</b></a> •
-        <a href="https://leetcode.com/u/mihir1245anand/" target="_blank"><b>🔗 LeetCode Profile</b></a>
+        <a href="https://github.com/mihir1245anand/leetcode" target="_blank"><b>📦 LeetCode Repo</b></a> •
+        <a href="https://github.com/mihir1245anand/Codechef" target="_blank"><b>📦 CodeChef Repo</b></a>
       </p>
     </td>
   </tr>
